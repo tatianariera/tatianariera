@@ -8,5 +8,3 @@ At home, I practice **React**, which is my favorite area at the moment, and I'm 
 Let's connect! 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tatiana-riera-magan-b70650230/)
-
-![Coding cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
