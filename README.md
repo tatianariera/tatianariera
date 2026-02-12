@@ -1,7 +1,9 @@
 # こんにちは! I'm Tatiana
 
 I'm a **junior developer** eager to grow professionally.  
-Currently, I work with **React** and automated testing using **Selenium with Java**.
+
+Currently, I work with **React** for frontend development, automated testing using **Selenium with Java** for automated testing, and I also develop backend solutions using **Go** and **PHP**.
+
 
 In my free time, I practice **React** and **Java**, which are my favorite areas at the moment, and I'm also learning **Japanese**.
 
